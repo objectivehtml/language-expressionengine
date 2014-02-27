@@ -5,7 +5,7 @@
   "private": true,
   "description": "Syntax Highlighting for ExpressionEngine templates",
   "activationEvents": ["language-expressionengine:toggle"],
-  "repository": "https://github.com/atom/language-expressionengine",
+  "repository": "https://github.com/objectivehtml/language-expressionengine",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

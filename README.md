@@ -1,3 +1,6 @@
-# language-expressionengine package
+# ExpressionEngine Language Support in Atom
 
-A short description of your package.
+Adds syntax highlighting to ExpressionEngine templates in Atom.
+
+Feedback, tests, and contributions are welcome. Make a pull request to
+contribute.
