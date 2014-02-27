@@ -1,0 +1,15 @@
+{
+  "name": "language-expressionengine",
+  "main": "./lib/language-expressionengine",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Syntax Highlighting for ExpressionEngine templates",
+  "activationEvents": ["language-expressionengine:toggle"],
+  "repository": "https://github.com/atom/language-expressionengine",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
