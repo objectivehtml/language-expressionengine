@@ -1,6 +1,5 @@
 {
   "name": "language-expressionengine",
-  "main": "./lib/language-expressionengine",
   "version": "0.0.0",
   "private": false,
   "description": "Syntax Highlighting for ExpressionEngine templates",
