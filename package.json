@@ -1,11 +1,10 @@
 {
   "name": "language-expressionengine",
-  "main": "./lib/language-expressionengine",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "description": "Syntax Highlighting for ExpressionEngine templates",
   "activationEvents": ["language-expressionengine:toggle"],
-  "repository": "https://github.com/objectivehtml/language-expressionengine",
+  "repository": "https://github.com/objectivehtml/language-expressionengine.git",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
