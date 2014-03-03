@@ -1,6 +1,6 @@
 {
   "name": "language-expressionengine",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "private": true,
   "description": "Syntax Highlighting for ExpressionEngine templates",
   "repository": "https://github.com/objectivehtml/language-expressionengine",
