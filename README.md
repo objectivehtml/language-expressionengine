@@ -2,7 +2,7 @@
 
 Adds syntax highlighting to ExpressionEngine templates in Atom.
 
-![screenshot](http://tinypic.com/r/4ugk5f/8)
+![screenshot](http://i58.tinypic.com/4ugk5f.jpg)
 
 Feedback, tests, and contributions are welcome. Make a pull request to
 contribute.
