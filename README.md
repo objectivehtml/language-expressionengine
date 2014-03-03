@@ -1,4 +1,4 @@
-# ExpressionEngine Language Support in Atom
+# ExpressionEngine Package for Atom
 
 Adds syntax highlighting to ExpressionEngine templates in Atom.
 
